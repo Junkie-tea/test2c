@@ -1,0 +1,45 @@
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 300px;
+    height: 300px;
+
+    border-radius: 30px;
+    background-color: rgb(23, 147, 106);
+    color: white;
+}
+
+.card-useful {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    width: 300px;
+    height: 300px;
+
+    border-radius: 30px;
+    background-color: rgb(124, 26, 69);
+    color: white;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100px;
+    height: 40px;
+
+    border-radius: 30px;
+    background-color: rgb(16, 107, 77);
+    color: white;
+}
+
+/* Дизааааааааайн */
